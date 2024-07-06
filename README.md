@@ -4,6 +4,7 @@ The board project, is a real-time collaboration board tool.
 1. Next.JS
 2. Clerk - Authentication and User Management
 3. Convex - RealTime Database
+4. LiveBlocks - Collaborative RealTime API
 
 First, run the convex:
 
